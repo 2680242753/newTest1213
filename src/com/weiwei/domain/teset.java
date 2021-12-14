@@ -6,6 +6,7 @@ public class teset {
     private String bb;
     private String cc;
     private String dd;
+    private String ee;
 
     
 
